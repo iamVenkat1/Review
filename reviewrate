@@ -1,0 +1,4 @@
+.w-full {
+    width: 111px;
+    margin-left: 20pc;
+}
